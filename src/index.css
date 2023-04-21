@@ -137,7 +137,7 @@
         height: 42px;
     }
 
-    .contact__car-icon::after {
+    .contact__card-icon::after {
         width: 32px;
     }
 
@@ -218,7 +218,8 @@
     }
 
     .skills__container,
-    .portfolio__container {
+    .portfolio__container,
+    .contact__container {
         grid-template-columns: 1fr;
     }
 

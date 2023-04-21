@@ -375,8 +375,8 @@ export const testimonials = [
   {
     id: 5,
     img: Testimonial5,
-    name: 'Paul Freeman',
-    author: 'Bureikokun',
+    name: 'Bureikokun',
+    author: 'Co-founder',
     description:
       'Various kinds of creatives, designs and outstanding marketing strategies',
   },
