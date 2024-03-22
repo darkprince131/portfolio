@@ -117,7 +117,6 @@ export const skills = [
   {
     id: 4,
     name: 'Photoshop',
-    percentage: 75,
     description:
       'The most preffered platform for any kind of graphic designing. Might it be logo or banner or addvertisements, its all possible.',
   },
