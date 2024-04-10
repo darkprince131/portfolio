@@ -31,19 +31,19 @@ const Home = () => {
 
 						<p className="home__data home__data-one">
 							<span className="text-lg">
-								2 <b>+</b>
+								1 <b>+</b>
 							</span>
 
 							<span className="text-sm text-cs">
-								Years of <span>Designing</span>
+								Year <span>Experinece</span>
 							</span>
 						</p>
 
 						<p className="home__data home__data-two">
-							<span className="text-lg">5+</span>
+							<span className="text-lg">2+</span>
 
 							<span className="text-sm text-cs">
-								Designing <span>Internships</span>
+								Years in <span>Designing</span>
 							</span>
 						</p>
 
@@ -53,7 +53,7 @@ const Home = () => {
 					</div>
 
 					<p className="home__text">
-						From Balasore, Odisha. I have subtle experience in web design, also I am good at wordpress. Love to create and design.
+						From Balasore, Odisha. I have subtle experience in web design and frontend development, also I am good at learning other new technologies. Love to create and design.
 					</p>
 
 					<div className="home__socials">
