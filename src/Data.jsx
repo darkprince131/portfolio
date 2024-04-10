@@ -93,7 +93,6 @@ export const skills = [
   {
     id: 1,
     name: 'React JS',
-    percentage: 85,
     description:
       'Really love React JS with all of its libraries and simplistic approach. Can build a lightly animated ui prototype into a website.',
   },
@@ -101,7 +100,6 @@ export const skills = [
   {
     id: 2,
     name: 'JavaScript',
-    percentage: 75,
     description:
       'Well-versed in all the basic javascript queries and logic required to build a bussiness level website. Currently learning Typescript',
   },
@@ -109,14 +107,13 @@ export const skills = [
   {
     id: 3,
     name: 'WordPress',
-    percentage: 90,
     description:
       'Providing a start till end process of payments and hsoting. Thorough with a lot of plugins and immersive UI designs.',
   },
 
   {
     id: 4,
-    name: 'Photoshop',
+    name: 'Adobe PS,Ai,Ae,Pr',
     description:
       'The most preffered platform for any kind of graphic designing. Might it be logo or banner or addvertisements, its all possible.',
   },
@@ -124,7 +121,6 @@ export const skills = [
   {
     id: 5,
     name: 'Figma',
-    percentage: 90,
     description:
       'A simple to use platform which I use to make stylish UI designs and seamless animations like parallax and glassmorphism.',
   },
@@ -132,7 +128,6 @@ export const skills = [
   {
     id: 6,
     name: 'Node JS',
-    percentage: 80,
     description:
       'Been using in all projects for back end like CRUD operations and authentication with JWT etc and much more.Vite preffered',
   },
@@ -240,33 +235,6 @@ export const projects = [
   },
   {
     id: 13,
-    img: Project13,
-    category: 'Graphic Design',
-    title: 'Chainsaw-front',
-    website: 'instagram.com/venoofficial.store?igshid=YmMyMTA2M2Y%3D',
-    description:
-      'Front and side designs of an very interesting color combination that was most viewed.',
-  },
-  {
-    id: 14,
-    img: Project14,
-    category: 'Graphic Design',
-    title: 'Chainsaw-back',
-    website: 'instagram.com/venoofficial.store?igshid=YmMyMTA2M2Y%3D',
-    description:
-      'Backc design of an very interesting color combination that was most viewed.',
-  },
-  {
-    id: 15,
-    img: Project15,
-    category: 'Graphic Design',
-    title: 'Killua-front',
-    website: 'instagram.com/venoofficial.store?igshid=YmMyMTA2M2Y%3D',
-    description:
-      'Front and side hoodie designs for a reflective print.',
-  },
-  {
-    id: 16,
     img: Project16,
     category: 'Graphic Design',
     title: 'Killua-back',
@@ -277,10 +245,11 @@ export const projects = [
 ];
 
 export const cv = [
+
   {
     id: 1,
     title: 'Graduation',
-    subtitle: '8.67 CGPA (Currently)',
+    subtitle: '9.22 CGPA ',
     date: '2019 - 2023',
     description:
       'B.Tech, Computer Science At Trident Academy Of Technology, Bhubaneshwar.',
@@ -289,11 +258,11 @@ export const cv = [
 
   {
     id: 2,
-    title: 'Startup',
-    subtitle: 'Veno',
-    date: '2022 - PRESENT',
+    title: 'InstaSafe',
+    subtitle: 'Role - UI/UX & Frontend Developer',
+    date: 'Aug 2023 - Present',
     description:
-      'Tshirt Designing and Printing Digitally.',
+      'Worked on fixing and developing Bug Bounty Project(safehats), Product UI/UX for web-apps,consoles and websites , Competitor anyalysis and wireframing along with multiple other tasks   ',
     category: 'experience',
   },
 
@@ -309,6 +278,16 @@ export const cv = [
 
   {
     id: 4,
+    title: 'Startup',
+    subtitle: 'Veno',
+    date: '2022 - PRESENT',
+    description:
+      'Digital Tshirt Designing and Printing .',
+    category: 'experience',
+  },
+
+  {
+    id: 5,
     title: 'Matriculate',
     subtitle: '10 CGPA',
     date: '2015 - 2016',
@@ -318,24 +297,15 @@ export const cv = [
   },
 
   {
-    id: 5,
+    id: 6,
     title: 'Graphic Designer',
-    subtitle: 'Shinigami Central',
+    subtitle: 'Freelancing',
     date: '2020 - 2021',
     description:
       'T-shirt and Logo Designing as a freelancer and intern.',
     category: 'experience',
   },
-
-  {
-    id: 6,
-    title: 'Graphic Designer',
-    subtitle: 'Bureikokun',
-    date: '2022',
-    description:
-      'Website designing, Tshirt desgning And Logo Designing along with advertising and marketing.',
-    category: 'experience',
-  },
+  
 ];
 
 export const testimonials = [
