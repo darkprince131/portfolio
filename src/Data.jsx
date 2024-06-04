@@ -218,29 +218,29 @@ export const projects = [
   {
     id: 11,
     img: Project11,
-    category: 'Graphic Design',
+    category: 'UI/UX',
     title: 'Newiz',
     website: 'https://www.behance.net/gallery/199582433/UIUX-PORTFOLIO-2024',
     description:
-      'Front and side designs of an anime hoodie named Bleach that was once a bestseller.',
+      'An innovative AI-powered designing tool.',
   },
   {
     id: 12,
     img: Project12,
-    category: 'Graphic Design',
+    category: 'UI/UX',
     title: 'ZTNA Self-Serve',
     website: 'https://www.behance.net/gallery/199582433/UIUX-PORTFOLIO-2024',
     description:
-      'Back design of an anime hoodie named Bleach that was once a bestseller',
+      'Redesgning of an old ZTNA Console making it way user-friendly',
   },
   {
     id: 13,
     img: Project16,
-    category: 'Savile',
-    title: 'Killua-back',
+    category: 'UI/UX',
+    title: 'Savile',
     website: 'https://www.behance.net/gallery/199582433/UIUX-PORTFOLIO-2024',
     description:
-      'Reflective back design of a hoodie from an anime called HunterXHunter.',
+      'An innovative Learning management system in focusing on soft design.',
   },
 ];
 
