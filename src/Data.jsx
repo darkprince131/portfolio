@@ -219,8 +219,8 @@ export const projects = [
     id: 11,
     img: Project11,
     category: 'Graphic Design',
-    title: 'Bankai-front',
-    website: 'instagram.com/venoofficial.store?igshid=YmMyMTA2M2Y%3D',
+    title: 'Newiz',
+    website: 'https://www.behance.net/gallery/199582433/UIUX-PORTFOLIO-2024',
     description:
       'Front and side designs of an anime hoodie named Bleach that was once a bestseller.',
   },
@@ -228,17 +228,17 @@ export const projects = [
     id: 12,
     img: Project12,
     category: 'Graphic Design',
-    title: 'Bankai-back',
-    website: 'instagram.com/venoofficial.store?igshid=YmMyMTA2M2Y%3D',
+    title: 'ZTNA Self-Serve',
+    website: 'https://www.behance.net/gallery/199582433/UIUX-PORTFOLIO-2024',
     description:
       'Back design of an anime hoodie named Bleach that was once a bestseller',
   },
   {
     id: 13,
     img: Project16,
-    category: 'Graphic Design',
+    category: 'Savile',
     title: 'Killua-back',
-    website: 'instagram.com/venoofficial.store?igshid=YmMyMTA2M2Y%3D',
+    website: 'https://www.behance.net/gallery/199582433/UIUX-PORTFOLIO-2024',
     description:
       'Reflective back design of a hoodie from an anime called HunterXHunter.',
   },
