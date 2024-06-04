@@ -78,7 +78,7 @@ export const services = [
     name: ' Graphic Designing ',
     title: ' Logo, advertisements and tshirt designs ',
     description:
-      'Been in designing industry and love to design something that have impact on the viewer using Photoshop, Illustrator, Canva etc.',
+      'Been in designing industry and love to design something that have impact on the viewer using Photoshop, Illustrator, After Effects etc.',
   },
   {
     id: 5,
@@ -108,21 +108,21 @@ export const skills = [
     id: 3,
     name: 'WordPress',
     description:
-      'Providing a start till end process of payments and hsoting. Thorough with a lot of plugins and immersive UI designs.',
+      'Providing a start till end process of payments and hosting. Thorough with a lot of plugins and immersive UI designs.',
   },
 
   {
     id: 4,
     name: 'Adobe PS,Ai,Ae,Pr',
     description:
-      'The most preffered platform for any kind of graphic designing. Might it be logo or banner or addvertisements, its all possible.',
+      'The most preffered platform for any kind of graphic designing. Might it be logo or explanar videos or advertisements, its all possible.',
   },
 
   {
     id: 5,
     name: 'Figma',
     description:
-      'A simple to use platform which I use to make stylish UI designs and seamless animations like parallax and glassmorphism.',
+      'Leveraging the most of the platform to make auto-layout,responsive,prototypes building design system and UI Kits.',
   },
 
   {
@@ -300,9 +300,9 @@ export const cv = [
     id: 6,
     title: 'Graphic Designer',
     subtitle: 'Freelancing',
-    date: '2020 - 2021',
+    date: '2020 - 2023',
     description:
-      'T-shirt and Logo Designing as a freelancer and intern.',
+      'UI Designs and Case Studies along with Prototyping and Personification and Responsive designs a freelancer and intern.',
     category: 'experience',
   },
   
